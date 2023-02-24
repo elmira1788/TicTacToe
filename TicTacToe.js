@@ -2,9 +2,12 @@ let xwins = 0
 let owins = 0
 let player = 0
 
+// target all id and classes
+
 const reset = document.querySelector('.reset')
 
 const buttons = document.querySelectorAll('.buttons button')
+
 
 const btn1 = document.querySelector('.btn1')
 const btn2 = document.querySelector('.btn2')
