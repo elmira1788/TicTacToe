@@ -1,4 +1,4 @@
-## [Tic-Tac-Toe Game](https://elmira1788.github.io/Tic-Tac-Toe/)
+## [Tic-Tac-Toe Game](https://elmira1788.github.io/TicTacToe/)
 
 **tom and Jerry animation inspired Tic Tac Toe game with following functions:**
 
